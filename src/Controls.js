@@ -2,7 +2,7 @@ import React, { PureComponent } from 'react';
 
 class Controls extends PureComponent {
 
-  render() {
+render() {
     return (
       <div>
         <div>
